@@ -7,7 +7,7 @@ Video to see the code run:
 https://drive.google.com/file/d/1pUe2JIVDWWY16gpy0a1pw_wqqg98UEGL/view?usp=sharing 
 
 3 simple test cases:
-Test 1: Valid input - Age: 23
-Test 2: Invalid input - Age: Blank
-Test 3: Invalid input - Age:-5
+Test 1: Valid input - Age: 23 \n
+Test 2: Invalid input - Age: Blank \n
+Test 3: Invalid input - Age:-5 \n
 All test cases passed
